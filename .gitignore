@@ -1,0 +1,20 @@
+
+# CIFAR-10 dataset files
+data/
+*.tar.gz
+
+# Model checkpoints
+outputs/checkpoints/
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
